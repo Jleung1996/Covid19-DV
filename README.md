@@ -29,6 +29,8 @@ Both datasets span from 1/20/2020 to 2/28/2022 and have unique identifier that c
 | Tableau Public               | Data Visualization            | https://public.tableau.com/en-us/s/                                                               |
 | Microsoft Excel              | Data Export                   | https://www.microsoft.com/en-us/microsoft-365/excel                                               |
 
+Note: Tableau Public can not estatablish connections to a SQL server. In a production setting using the paid verison of Tableau, this issue will not occur. To circumvent this, we make several view queries to export the cleaned data as xlsx and connected it to Tableau Public. For more information regarding the SQL queries used, please click [here](https://github.com/Jleung1996/Covid19-Data-Visulization-SQL-Tableau/blob/main/Code/SQLCovidV2.sql)
+
 
 ## User Guide
 
