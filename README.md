@@ -1,6 +1,6 @@
 # Covid19 Dynamic Dashboard
 
-The access to interactive Tableau dashboard is [here](https://public.tableau.com/app/profile/jacky1833/viz/Covid19FinalDashBoard/Dashboard). The information below will detail the project's goal, tool used, and a comprehensive user guide for the dashboard
+The access to interactive Tableau dashboard is [here](https://public.tableau.com/app/profile/jacky1833/viz/Covid19FinalDashBoard/Dashboard). The information below will detail the project's goal, tool used, and a comprehensive user guide for the dashboard.
 
 [![name](https://github.com/Jleung1996/Covid19-Data-Visulization-SQL-Tableau/blob/main/MISC/DashboardDemo1.gif)](https://public.tableau.com/app/profile/jacky1833/viz/Covid19FinalDashBoard/Dashboard)
 
@@ -46,11 +46,11 @@ The dashboard is divided by 5 sections.
      ![Alt Text](https://github.com/Jleung1996/Covid19-Data-Visulization-SQL-Tableau/blob/main/MISC/Dashboardheatmap.gif)
 
   2. Quick Covid statistics.
-  * This selection provides the population, total inflection amount, inflection rate, total mortality, mortality rate, total vaccine given(both shots + booster) and fully vaccinated rate.
+  * This selection provides the population, total infection amount, infection rate, total mortality, mortality rate, total vaccine given(both shots + booster) and fully vaccinated rate.
      ![Alt Text](https://github.com/Jleung1996/Covid19-Data-Visulization-SQL-Tableau/blob/main/MISC/Header.gif)
 
   3. Percent Population Vaccinated.
-  * The bar graph is broken down into three selections. First bar is the population that recieved at least one dose. Second bar is the population that receive two doses(Fully Vaccinated).
+  * The bar graph is broken down into three selections. First bar is the population that recieved at least one dose. Second bar is the population that receive two doses (Fully Vaccinated).
   The last bar represent the population that recieved the booster shot. Hovering over bar will show you the respective precentage.
        ![Alt Text](https://github.com/Jleung1996/Covid19-Data-Visulization-SQL-Tableau/blob/main/MISC/Vaccine.gif)
 
@@ -58,9 +58,9 @@ The dashboard is divided by 5 sections.
    * The time series histogram is from 1/20/2020 to 2/28/2022 and paritioned by weeks. It displays the running total mortality amount. Hovering 
   over the bar will show you the respective running total.
        ![Alt Text](https://github.com/Jleung1996/Covid19-Data-Visulization-SQL-Tableau/blob/main/MISC/Mortality.gif)
-  5. Inflection Over Time
+  5. Infection Over Time
 
-  * The time series histogram is from 1/20/2020 to 2/28/2022 and paritioned by weeks. It displays the running total inflection amount. Hovering 
+  * The time series histogram is from 1/20/2020 to 2/28/2022 and paritioned by weeks. It displays the running total infection amount. Hovering 
   over the bar will show you the respective running total.
        ![Alt Text](https://github.com/Jleung1996/Covid19-Data-Visulization-SQL-Tableau/blob/main/MISC/Inflection.gif)
     
