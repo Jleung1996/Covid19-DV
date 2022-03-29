@@ -8,7 +8,7 @@ The access to interactive Tableau dashboard is [here](https://public.tableau.com
 
 SARS-CoV-2 (COVID19) has been a main part of our lives in the past 3 years.
 Given the daily coronovirus dataset, 
-our goal is create a dynamic dashboard that can effectively detail the infection,death,vaccination informations for all countries.
+our goal is create a dynamic dashboard that can effectively detail the infection, death, vaccination informations for all countries.
 
 
 
