@@ -1,8 +1,8 @@
 # Covid19 Dynamic Dashboard
 
-The access to interactive Tableau dashboard is [here](https://public.tableau.com/app/profile/jacky1833/viz/Covid19FinalDashBoard/Dashboard). The information below will detail the project's goal, tool used, and a comprehensive user guide for the dashboard.
+The access to interactive Tableau dashboard is [here](https://public.tableau.com/app/profile/jacky1833/viz/Covid19DynamicDashboard/Dashboard). The information below will detail the project's goal, tool used, and a comprehensive user guide for the dashboard.
 
-[![name](https://github.com/Jleung1996/Covid19-Data-Visulization-SQL-Tableau/blob/main/MISC/DashboardDemo1.gif)](https://public.tableau.com/app/profile/jacky1833/viz/Covid19FinalDashBoard/Dashboard)
+[![name](https://github.com/Jleung1996/Covid19-Data-Visulization-SQL-Tableau/blob/main/MISC/DashboardDemo1.gif)](https://public.tableau.com/app/profile/jacky1833/viz/Covid19DynamicDashboard/Dashboard)
 
 ## Project Goals
 
