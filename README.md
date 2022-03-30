@@ -4,6 +4,11 @@ The access to interactive Tableau dashboard is [here](https://public.tableau.com
 
 [![name](https://github.com/Jleung1996/Covid19-Data-Visulization-SQL-Tableau/blob/main/MISC/DashboardDemo1.gif)](https://public.tableau.com/app/profile/jacky1833/viz/Covid19DynamicDashboard/Dashboard)
 
+Note: Please reduce your browser size if the dashboard appears too big. Alternatively, you can enable fullscreen in the bottom right corner to ensure the intended format.
+
+![Alt Text](https://github.com/Jleung1996/Covid19-Data-Visulization-SQL-Tableau/blob/main/MISC/Fullscreen.png)
+
+
 ## Project Goals
 
 SARS-CoV-2 (COVID19) has been a main part of our lives in the past 3 years.
